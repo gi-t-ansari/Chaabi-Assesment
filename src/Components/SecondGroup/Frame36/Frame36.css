@@ -1,0 +1,51 @@
+.frame36 {
+  width: 316px;
+  height: 413px;
+  padding: 20px 17px 22px 17px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px 0px #b4ceff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.frame35 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.blueDot {
+  background: #0d62ff;
+}
+
+.violetDot {
+  background: #8400d5;
+}
+
+.redDot {
+  background: #ed1c24;
+}
+
+.lightGrayDot {
+  background: #3333334d;
+}
+
+.greenDot {
+  background: #425f57;
+}
+
+.dotContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.frame37 {
+  margin: 0 auto;
+}

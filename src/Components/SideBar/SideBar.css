@@ -1,0 +1,38 @@
+.sideBarContainer {
+  width: 356px;
+  height: 100vh;
+  box-shadow: 0px 4px 4px 0px #0d62ff;
+}
+
+.logoContainer {
+  padding: 45px 60px 30px 60px;
+  border-bottom: 1px solid #e7efff;
+}
+
+.logoContainer > img {
+  cursor: pointer;
+}
+
+.menuContainer {
+  margin-top: 20px;
+  padding: 0 50px;
+}
+
+.menuContent {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 5px;
+  padding: 9px 28px 9px 28px;
+}
+
+.whiteText {
+  background-color: #0c58e6;
+  color: #ffffff;
+  box-shadow: 0px 2px 4px 0px #8a92a64d;
+}
+
+.blueText {
+  color: #0c58e6;
+}

@@ -1,0 +1,44 @@
+.quizPassingContainer {
+  width: 385px;
+  height: 302px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px 0px #1878f240;
+  padding: 20px 17px 22px 17px;
+}
+
+.quizPassingHEading {
+  font-size: 21px;
+  color: #333333;
+}
+
+.lightGreenDot {
+  background-color: #018e42;
+}
+
+.result {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.count {
+  font-size: 11px;
+  color: #333333;
+}
+
+.frame1253 {
+  display: flex;
+  flex-direction: column;
+}
+
+.frame1262 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.frame1263 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 30px;
+}

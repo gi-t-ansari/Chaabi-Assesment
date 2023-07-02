@@ -1,0 +1,108 @@
+.group289205Container {
+  width: 966px;
+  height: 413px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px 0px #1878f240;
+  padding: 20px 17px 22px 17px;
+}
+
+.group289205Header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.group289205Header > p {
+  margin-top: 0;
+}
+
+.barNumberContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.barNumberContainer > span {
+  font-size: 11px;
+  opacity: 0.7;
+}
+
+.group2994 {
+  display: flex;
+  margin-left: 20px;
+}
+
+.barContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.bar {
+  width: 16px;
+  height: 255px;
+  background: #e7efff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.childBar {
+  background: linear-gradient(
+    356.64deg,
+    rgba(13, 98, 255, 0.8) 48.49%,
+    rgba(27, 89, 248, 0) 282.14%
+  );
+  width: 16px;
+  border-radius: 8px;
+}
+
+.childBar1,
+.childBar8 {
+  height: 76px;
+}
+
+.childBar2,
+.childBar3 {
+  height: 97px;
+}
+
+.childBar4 {
+  height: 156px;
+}
+
+.childBar5,
+.childBar9 {
+  height: 177px;
+}
+
+.childBar6 {
+  height: 135px;
+}
+
+.childBar7 {
+  height: 157px;
+}
+
+.childBar10 {
+  height: 212px;
+}
+
+.childBar11 {
+  height: 233px;
+}
+
+.childBar12 {
+  height: 256px;
+}
+
+.group289205Footer {
+  display: flex;
+  gap: 46px;
+  font-size: 11px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
